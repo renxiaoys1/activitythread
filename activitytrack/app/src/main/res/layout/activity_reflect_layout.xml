@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#99FFFFFF"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+    <TextView android:id="@+id/tv_title"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:padding="30dp"
+              android:text="通过反射获取activity声明周期的方法"
+              android:textSize="22sp"
+              android:textColor="#FE4BACEE"
+              android:background="#FFB2E3A0"
+              android:layout_marginBottom="100dp"
+              android:layout_gravity="center_horizontal"
+            />
+
+
+</LinearLayout>
